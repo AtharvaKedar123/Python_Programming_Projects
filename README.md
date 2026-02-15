@@ -95,6 +95,8 @@ Clone the repo:
 ```bash
 git clone https://github.com/your-username/python-projects.git
 cd python-projects
+Run the main Python script:
+python main.py
 
 
 
