@@ -1,31 +1,13 @@
-## Day 2 Tip Calculator
- 
-## Table of contents
+# Tip Calculator
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+## 📌 Overview
+Calculates tip and splits the bill among people.
 
-## Overview
+## 🎯 Features
+- Bill input
+- Tip percentage calculation
+- Split among users
 
-### The challenge
-
-- Create a simple python program that calculates tips from the final bill
-
-### Links
-
-- Solution URL: [Tip Calculator](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day2)
-
-### Built with
-
-- Python
-
-### What I learned
-- Data Types
-- Numbers
-- Operations
-- Type Conversion
-- f-Strings
+## 🧠 Concepts Used
+- Arithmetic operations
+- Input handling
