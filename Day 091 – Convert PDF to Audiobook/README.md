@@ -1,38 +1,46 @@
-# Day 91 Professional Portfolio Project: PDF to Audiobook
+# Day 091 – Convert PDF to Audiobook 📚🔊
 
+## 📌 Overview
+A Python application that converts PDF documents into spoken audio using text-to-speech (TTS) technology.
 
-https://github.com/Mikerniker/100_Days_of_Python/assets/63586831/61222d56-885a-476b-b4c6-ae09dceb2e5b
+---
 
-## Overview
+## 🎯 Features
+- Extract text from PDF files
+- Convert text into speech
+- Save output as audio file
+- Support for long documents
 
-- Topics: Python, Flask
+---
 
-### The challenge
+## 🧱 System Architecture
+- Input Layer → PDF file
+- Processing Layer → Text extraction (PyPDF)
+- Output Layer → Text-to-Speech engine
 
-- Build a python script that takes a PDF file, identifies the text and converts the text to speech, like a free audiobook.
- 
-### Links
+---
 
-- Solution URL: [PDF to Audiobook](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day91)
+## 🧠 Concepts Used
+- File handling
+- PDF parsing
+- Text-to-Speech (TTS)
+- External libraries (e.g., pyttsx3)
 
-## Reflection
-**Approach, Challenges, Future Improvements:** 
+---
 
-Some aspects I would improve would be to enhance the user experience (UX) by adding a spinner while the PDF is converting to audio to let the user know it's processing. Additionally, I would improve the file handling experience by allowing users to name the file instead of having a hardcoded filename.
+## ⚙️ Workflow
+1. Load PDF file
+2. Extract text content
+3. Convert text into audio
+4. Save audio output
 
-**Biggest learning:**
+---
 
-My biggest learning today was about using state in Flask and gaining a deeper understanding of the os module, including functions such as:
+## 📍 Learning Outcome
+- Working with document processing
+- Integrating speech technologies
 
-```
-os.makedirs(app.config['UPLOAD_FOLDER'], exist_ok=True)
-file_path = os.path.join(app.config['UPLOAD_FOLDER'], file.filename)
-```
-It was also a bit of a challenge to get the audio in the HTML to work, so needed to use a bit of ChatGPT to get over the parts where I got stuck. Also, had to look up PyPDF2 and gTTS to work with the pdf and audio conversion.
-If I were to tackle this project again, I would primarily focus on improving the UX/UI to make it more straightforward and user-friendly.
+---
 
-
-## References
-- [Play HTML sound files](https://stackoverflow.com/questions/43961999/play-html5-sound-files-with-flask)
-- [PyPDF2](https://pypi.org/project/PyPDF2/)
-- [gTTS](https://pypi.org/project/gTTS/)
+## 🚀 Resume Value
+⭐ HIGH — Practical utility application
