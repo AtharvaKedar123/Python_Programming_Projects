@@ -1,11 +1,25 @@
-# Treasure Island Game
+# Treasure Island Adventure 🏝
 
 ## 📌 Overview
-A decision-based game where choices determine outcome.
+A text-based adventure game where the player makes decisions to find treasure.
 
 ## 🎯 Features
-- Multiple paths
-- Game logic
+- Multiple story paths
+- Decision-based outcomes
+- Interactive gameplay
 
 ## 🧠 Concepts Used
-- if-else conditions
+- Conditional statements (if-else)
+- Nested logic
+
+## ⚙️ How It Works
+- Player makes choices at each stage
+- Each choice leads to a different path
+- Game ends with win or loss
+
+## ▶️ How to Run
+python main.py
+
+## 📍 Learning Outcome
+- Designing logic-based flows
+- Structuring interactive programs
