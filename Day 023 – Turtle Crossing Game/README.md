@@ -1,39 +1,39 @@
-# Day 23 Project - The Turtle Crossing Capstone 
+# Turtle Crossing Game 🚦
 
-## Table of contents
+## 📌 Overview
+A Frogger-style game where the player navigates a turtle across a road filled with moving cars.
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+---
 
-## Overview
+## 🎯 Features
+- Player movement controls
+- Randomly generated cars
+- Increasing difficulty levels
+- Collision detection
 
-### The challenge
+---
 
-- Create a turtle crossing game with the turtle module.
-- Game needs:
-  - Create the screen
-  - Create a turtle that moves up
-  - Create cars that move from right to left
-  - Detect collision with car and end game
-  - Detect if turtle reached top of screen and return to starting position for next level
-  - Create a scoreboard to keep score
+## 🧱 System Design
+- `Player` → Controls movement
+- `CarManager` → Spawns and moves cars
+- `Scoreboard` → Tracks level
 
-### Links
+---
 
-- Solution URL: [Turtle Crossing Game](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day23)
+## 🧠 Concepts Used
+- OOP
+- Collision detection
+- Game difficulty scaling
 
-## My process
+---
 
-### Built with
+## ⚙️ How It Works
+- Player moves upward
+- Cars move horizontally
+- Each successful crossing increases level & speed
 
-- Python
-- Turtle module
+---
 
-### What I learned
-Review of past lessons:
-- OOP: Constructor Classes, Inheritance
-- Turtle Coordinate System, Turtle Game engine
+## 📍 Learning Outcome
+- Designing scalable game difficulty
+- Managing multiple moving objects
