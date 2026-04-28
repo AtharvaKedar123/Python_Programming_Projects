@@ -1,11 +1,24 @@
-# Coffee Machine
+# Coffee Machine ☕
 
 ## 📌 Overview
-Simulates coffee vending machine.
+Simulates a coffee vending machine handling orders, resources, and payments.
 
 ## 🎯 Features
-- Resource management
-- Payment logic
+- Menu selection
+- Resource tracking (water, milk, coffee)
+- Payment handling
 
 ## 🧠 Concepts Used
 - Dictionaries
+- Functions
+- Conditional logic
+
+## ⚙️ How It Works
+- User selects drink
+- Machine checks resources
+- Processes payment
+- Dispenses drink
+
+## 📍 Learning Outcome
+- Managing system states
+- Real-world simulation logic
