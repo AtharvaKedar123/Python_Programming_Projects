@@ -1,10 +1,20 @@
-# Snake Game Part 1
+# Snake Game (Part 1) 🐍
 
 ## 📌 Overview
-Initial version of snake game.
+Initial version of the classic Snake game.
 
 ## 🎯 Features
-- Movement logic
+- Snake movement
+- Screen setup
+- Basic controls
 
 ## 🧠 Concepts Used
-- Game loops
+- Turtle graphics
+- Game loop
+
+## ⚙️ How It Works
+- Snake moves continuously
+- Player controls direction
+
+## 📍 Learning Outcome
+- Building real-time game systems
