@@ -1,37 +1,37 @@
-# Day 100 Professional Portfolio Project: Analyse and Visualise deaths by police in the U.S
+# Day 100 – Analyzing Deaths Involving Police 📊
 
+## 📌 Overview
+A data analysis project examining patterns in police-related incidents.
 
-## Overview
-- Topics: Python, Pandas, Streamlit  
+---
 
-### The challenge
+## 🎯 Features
+- Data cleaning
+- Statistical analysis
+- Visualization of patterns
 
-- Extract insights from combining US census data and the 
-Washington Post's database on deaths by police in the United States.
-Analyze this datasets on:
-  - Poverty rate
-  - High school graduation rate
-  - Median household income, 
-  - Racial demographics.
-  
-### Functionality
+---
 
+## 🧠 Concepts Used
+- Data analysis
+- Statistical reasoning
+- Visualization
 
-### Links
+---
 
-- Solution URL: [Analyse and Visualise deaths by police in the U.S.](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day100)
+## ⚙️ Workflow
+1. Load dataset
+2. Clean and preprocess
+3. Analyze trends
+4. Visualize insights
 
-## Reflection
-**Approach, Challenges, Learnings, and Future Improvements:**
-**Approach**
+---
 
-**Challenges**
+## 📍 Learning Outcome
+- Working with sensitive real-world data
+- Drawing meaningful conclusions
 
+---
 
-**Learnings**
-
-
-**Future Improvements**
-
-
-## Notes/Concepts/Review: 
+## 🚀 Resume Value
+⭐ EXTREMELY HIGH — Real-world impact project
