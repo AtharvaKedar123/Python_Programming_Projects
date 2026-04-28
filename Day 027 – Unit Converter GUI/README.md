@@ -1,37 +1,21 @@
-# Day 27: Project - Unit Converter Program
+# Tkinter GUI App 🖥
 
-## Table of contents
+## 📌 Overview
+A basic GUI application demonstrating event-driven programming.
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+---
 
-## Overview
+## 🎯 Features
+- Buttons and labels
+- User input handling
 
-### The challenge
+---
 
-- Create a GUI that converts miles to kilometers 
-
-### Links
-
-- Solution URL: [Unit Converter Program](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day27)
-
-## My process
-
-### Built with
-
-- Python
+## 🧠 Concepts Used
 - Tkinter
+- Event handling
 
-### What I learned
-- Graphical User Interfaces with Tkinter 
-  - Tkinter Widgets: Buttons, Entry, Radiobuttons, Scales and others
-  - Tkinter Methods: pack(), place() and grid()
-- Advanced Functions (Default Arguments):
-  - *Args
-  - **Kwargs)
+---
 
- 
+## 📍 Learning Outcome
+- GUI fundamentals
