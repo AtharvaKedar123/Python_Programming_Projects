@@ -1,33 +1,15 @@
-# Day 54 Web Development with Flask
+# Flask Introduction 🌐
 
-## Overview
+## 📌 Overview
+Introduction to backend development using Flask.
 
-### The challenge
+---
 
-- Create a python decorator (main.py).
-- Create a basic flask app (hello.py)
+## 🎯 Features
+- Basic routes
+- Simple web server
 
-## Table of contents
+---
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [Notes](#notes)
-
-### Links
-
-- Solution URL: [Web Development with Flask](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day54)
-
-### Built with
-
-- Python
-- Flask
-
-
-#### Notes
-- Tools:
-[Python visualize](https://pythontutor.com/visualize.html#mode=edit)
-- Got a little confused by the instructions for the speed calculator. Math isn't my favorite so didn't fully understand what I had to calculate. Reviewed the concept for decorators a few times, it's a bit clearer now. Just a matter of remembering how to create them and use them properly. It's relation to Flask is clear though and helped clarify its use.
-
+## 📍 Learning Outcome
+- Backend fundamentals
