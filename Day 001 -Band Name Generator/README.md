@@ -1,22 +1,30 @@
-# Band Name Generator 🎸
+# Day 001 - Band Name Generator 🎸
 
 ## 📌 Overview
-A simple Python program that generates a creative band name by combining user-provided inputs such as city name and pet name.
+A simple Python program that generates a creative band name based on user inputs such as city name and pet name. This project introduces basic input handling and string manipulation.
+
+---
 
 ## 🎯 Features
 - Takes dynamic user input
-- Generates unique band name combinations
-- Instant output generation
+- Combines multiple inputs into a meaningful output
+- Instant result generation
+
+---
 
 ## 🧠 Concepts Used
-- Input/Output operations
-- String concatenation
+- Input/Output (`input()`, `print()`)
 - Variables
+- String concatenation
 
-## ⚙️ How It Works
-1. User enters their city name
-2. User enters their pet name
-3. Program combines both to create a band name
+---
+
+## ⚙️ Workflow
+1. User enters city name
+2. User enters pet name
+3. Program combines inputs → generates band name
+
+---
 
 ## ▶️ How to Run
 ```bash
