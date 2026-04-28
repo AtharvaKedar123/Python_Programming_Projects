@@ -1,35 +1,22 @@
-# Day 28: Project - Pomodoro Timer
+# Pomodoro Timer ⏳
 
-## Table of contents
+## 📌 Overview
+A productivity tool implementing Pomodoro technique with work/break cycles.
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+---
 
-## Overview
+## 🎯 Features
+- Timer countdown
+- Work & break cycles
+- Visual feedback
 
-### The challenge
+---
 
-- Create a Pomodoro GUI countdown timer 
-
-### Links
-
-- Solution URL: [Pomodoro Timer](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day28)
-
-## My process
-
-### Built with
-
-- Python
+## 🧠 Concepts Used
 - Tkinter
+- Time management
 
-### What I learned
-- Review Tkinter, Canvas Widget, Adding Images to Tkinter
-- UI
-- Dynamic Typing 
+---
 
-
- 
+## 📍 Learning Outcome
+- Time-based application design
