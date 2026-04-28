@@ -1,42 +1,47 @@
-# Day 61 Advanced Forms with Flask-WTForms
+# Advanced Forms with Flask-WTF 📝
 
-## Overview
+## 📌 Overview
+A Flask-based web application implementing secure and validated forms using Flask-WTF.  
+This project introduces form validation, CSRF protection, and structured user input handling.
 
-- Build forms using the Flask-WTF extension for Flask
+---
 
-### The challenge
+## 🎯 Features
+- Secure form submission
+- Input validation (email, password, required fields)
+- CSRF protection
+- Error handling & feedback
 
-TASKS
-- Install Flask-WTF
-- Create forms with Flask-WTF
-- Add Validation to Forms with Flask-WTF
-- Inherit Templates using Jinja2
-- Use Flask-Bootstrap as an Inherited Template
+---
 
+## 🧱 System Architecture
+- Frontend → HTML forms
+- Backend → Flask routes
+- Validation Layer → Flask-WTF
 
-## Table of contents
+---
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [Notes](#notes)
+## 🧠 Concepts Used
+- Flask-WTF
+- Form validation
+- CSRF tokens
+- POST/GET request handling
 
-### Links
+---
 
-- Solution URL: [Advanced Forms with Flask-WTForms](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day61)
+## ⚙️ Workflow
+1. User fills form
+2. Data validated on backend
+3. Errors returned if invalid
+4. Valid data processed
 
-### Built with
-- Flask
-- HTML
-- Bootstrap
+---
 
+## 📍 Learning Outcome
+- Building secure web applications
+- Handling user input professionally
 
-### Notes
+---
 
-- Always use dynamically built urls:
-```<form method="POST" action="{{ url_for('login') }}">```
-
-- WTF Basic Fields (StringField, PasswordField, SubmitField etc)
-- [WTF Basic Fields](https://wtforms.readthedocs.io/en/3.0.x/fields/#basic-fields)
+## 🚀 Resume Value
+⭐ HIGH — Shows backend validation knowledge
