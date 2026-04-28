@@ -1,35 +1,23 @@
-# Day 30: Project - Password Manager 2.0
+# Password Manager (Advanced) 🔐
 
-## Table of contents
+## 📌 Overview
+Enhanced version using JSON storage and search functionality.
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+---
 
-## Overview
+## 🎯 Features
+- JSON-based storage
+- Search credentials
+- Error handling
 
-### The challenge
+---
 
-- Update Password manager with tkinter 
+## 🧠 Concepts Used
+- JSON handling
+- Exception handling
 
-### Links
+---
 
-- Solution URL: [Password Manager](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day30)
-
-## My process
-
-### Built with
-
-- Python
-- Tkinter
-
-### What I learned
-- Errors, Raising Exceptions, 
-- Write, read and update JSON Data
-- IndexError Handling
-- KeyError Handling
-- Exception Handling
-
+## 📍 Learning Outcome
+- Structured data storage
+- Building scalable systems
