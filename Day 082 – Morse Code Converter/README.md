@@ -1,20 +1,31 @@
-# Day 82 Professional Portfolio Project: Text to Morse Code Converter
+# Day 082 – Morse Code Converter 📡
 
-https://github.com/Mikerniker/100_Days_of_Python/assets/63586831/0c4c2257-6f8f-4a91-8b08-a6d3f988739c
+## 📌 Overview
+A Python application that converts text into Morse code and vice versa.
 
-## Overview
+---
 
-- Topics: Python Scripting
+## 🎯 Features
+- Text → Morse conversion
+- Morse → Text decoding
+- Error handling for invalid inputs
 
-### The challenge
+---
 
-- Build a text-based Python program to convert Strings into Morse Code.
+## 🧠 Concepts Used
+- Dictionaries (mapping)
+- String manipulation
+- Input validation
 
-### Links
+---
 
-- Solution URL: [Text to Morse Code Converter](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day82)
+## ⚙️ Workflow
+1. Accept user input
+2. Convert characters using mapping dictionary
+3. Output encoded/decoded message
 
-## Notes
-- To build the project, I used the following:
-  - dictionaries
-  - functions
+---
+
+## 📍 Learning Outcome
+- Data mapping techniques
+- Handling transformations efficiently
