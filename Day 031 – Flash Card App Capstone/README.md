@@ -1,40 +1,42 @@
-# Day 31: Capstone Project Flash Card Program
+# Flash Card App 📚
 
+## 📌 Overview
+A GUI-based flashcard application designed to help users learn vocabulary using spaced repetition techniques.  
+The app displays a word, flips it after a delay, and shows its meaning.
 
-https://github.com/Mikerniker/100_Days_of_Python/assets/63586831/c394dad9-3f5a-4ffb-9fa3-afbbf58c246c
+---
 
+## 🎯 Features
+- Flashcard flipping after timer
+- Random word selection
+- Progress tracking (removes known words)
+- Data persistence
 
-## Table of contents
+---
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I reviewed](#what-i-reviewed)
+## 🧱 System Architecture
+- UI Layer → Tkinter interface
+- Data Layer → CSV file (word pairs)
+- Logic Layer → Timer-based card switching
 
-## Overview
+---
 
-### The challenge
+## 🧠 Concepts Used
+- Tkinter (GUI)
+- Pandas (data handling)
+- File persistence
+- Event scheduling (`after()` method)
 
-- Create a flash card program to learn words from a specific language.
+---
 
-### Links
+## ⚙️ Workflow
+1. Load dataset from CSV
+2. Display random word
+3. Flip card after delay
+4. If user knows word → remove from dataset
 
-- Solution URL: [Flash Card Program](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day31)
+---
 
-## My process
-
-### Built with
-
-- Python
-- Tkinter
-
-### What I reviewed
-- Exception handling 
-- Write, read and update JSON Data
-- Reading CSVs
-- Pandas
-- Opening and Writing to Files
-
-
+## ▶️ How to Run
+```bash
+python main.py
