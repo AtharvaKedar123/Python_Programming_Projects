@@ -15,10 +15,6 @@
 
 - Create a program that generates a band name from the inputs of the user.
 
-### Links
-
-- Solution URL: [Band Name Generator](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day1)
-
 ## Notes
 
 - Notes: This is the final project for Day 1 of Angela Yu's 100 Days of Code: The Complete Python Pro Bootcamp for 2022 
