@@ -1,24 +1,36 @@
-# Day 83 Professional Portfolio Project: Portfolio Website
+# Day 083 – Portfolio Website Project 🌐
 
+## 📌 Overview
+A personal portfolio website showcasing projects, skills, and contact information.
 
+---
 
-https://github.com/Mikerniker/100_Days_of_Python/assets/63586831/7f03e755-4c63-4f20-bfa4-7357c22db3d4
+## 🎯 Features
+- Responsive design
+- Project showcase section
+- Contact information
+- Clean UI/UX
 
+---
 
+## 🧱 Architecture
+- Frontend → HTML, CSS
+- Optional Backend → Flask (if implemented)
 
-## Overview
+---
 
-- Topics: Flask, HTML
+## 🧠 Concepts Used
+- Web design principles
+- Layout & responsiveness
+- Styling
 
-### The challenge
+---
 
-- Build a website to show off skills and the things I've built.
+## 📍 Learning Outcome
+- Building personal branding site
+- Presenting projects professionally
 
-### Links
+---
 
-- Solution URL: [Portfolio Website](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day83)
-
-## Notes
-- Built with HTML 5 Template 
-- Flask
-- SMTPLIB
+## 🚀 Resume Value
+⭐ VERY HIGH — Personal branding
