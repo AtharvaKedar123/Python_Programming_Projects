@@ -1,19 +1,28 @@
-# Day 66 Build an API with RESTful Routing
+# REST API (Advanced) 🔗
 
-## Overview
+## 📌 Overview
+A production-style REST API with full CRUD functionality.
 
-- Topics: REST APIs, HTTP GET, POST PUT, PATCH, DELETE, (CRUD), API Documentation, Postman (API Testing Tool)
+---
 
-### The challenge
+## 🎯 Features
+- Create, read, update, delete data
+- JSON responses
+- Error handling
 
-- Create an API that shows collected data on cafes in a particular city and see available amenities.
+---
 
+## 🧠 Concepts Used
+- REST architecture
+- Flask API design
+- HTTP methods
 
-### Links
+---
 
-- Solution URL: [REST APIs](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day66)
+## 📍 Learning Outcome
+- Backend service development
 
-### Built with
+---
 
-- Python
-- Postman
+## 🚀 Resume Value
+⭐ VERY HIGH — Core backend skill
