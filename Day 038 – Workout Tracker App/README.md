@@ -1,37 +1,30 @@
-## Day 38 Project:  Exercise Tracking with Python and Google Sheets
+# Workout Tracker 🏋️
 
-## Table of contents
+## 📌 Overview
+Tracks workouts using natural language input and logs them via API.
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+---
 
-## Overview
+## 🎯 Features
+- NLP input parsing
+- Automatic calorie tracking
+- Data logging
 
-### The challenge
+---
 
-- Build an app that tracks your exercise on Google Sheets.
+## 🧠 Concepts Used
+- NLP APIs
+- API integration
 
-### Links
+---
 
-- Solution URL: [Exercise Tracking Project](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day38)
+## ⚙️ Workflow
+1. User inputs workout text
+2. NLP API processes input
+3. Data logged via another API
 
-## Notes
+---
 
-
-### Built with
-
-- Python
-- [Nutritionix API](https://www.nutritionix.com/business/api)
-- [Sheety API](https://sheety.co/)
-
-
-### What I learned
-- APIs and making POST Requests
-- Python DateTime strftime()
-- Authorization Headers (Basic Authentication)
-- Environment Variables
-- [OpenAi GPT-3](https://openai.com/blog/openai-api/)
+## 📍 Learning Outcome
+- Using AI/NLP APIs
+- Multi-API workflows
