@@ -1,39 +1,39 @@
-# Day 33: ISS Overhead Notifier Project
+# ISS Overhead Notifier 🛰
 
-## Table of contents
+## 📌 Overview
+Tracks the International Space Station (ISS) location and sends a notification when it is visible overhead.
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+---
 
-## Overview
+## 🎯 Features
+- Real-time ISS tracking
+- Location comparison
+- Email notification
 
-### The challenge
+---
 
-- Track where the ISS (International Space Station Tracker) in the night sky then send an email when it is above us.
-- If the ISS is close to my current position and it is currently dark, send myself an email to tell me to look up.
+## 🧱 System Architecture
+- API Layer → ISS & Sunrise-Sunset APIs
+- Logic Layer → Visibility calculation
+- Notification Layer → Email
 
-### Links
+---
 
-- Solution URL: [ISS Overhead Notifier](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day33)
+## 🧠 Concepts Used
+- API requests (requests module)
+- JSON parsing
+- Time comparison
 
-## My process
+---
 
-### Built with
+## ⚙️ Workflow
+1. Fetch ISS coordinates
+2. Compare with user location
+3. Check if it’s night
+4. Send notification if visible
 
-- Python
-- [Sunset and sunrise times API](https://sunrise-sunset.org/api)
-- [International Space Station Current Location API](http://open-notify.org/Open-Notify-API/ISS-Location-Now/)
+---
 
-
-### What I learned
-- API: API Endpoints, Making API Calls
-- HTTP Codes, Exceptions
-- JSON Data
-- API Parameters
-- Python split() method
-
-
+## 📍 Learning Outcome
+- Integrating multiple APIs
+- Building real-time monitoring systems
