@@ -1,34 +1,28 @@
-# Day 26: Project - NATO Alphabet
+# NATO Alphabet Converter 🔤
 
-## Table of contents
+## 📌 Overview
+Converts user input into NATO phonetic alphabet using dataset mapping.
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+---
 
-## Overview
+## 🎯 Features
+- Letter-to-code conversion
+- Input validation
 
-### The challenge
+---
 
-- Create a dictionary in this format: {"A": "Alfa", "B": "Bravo"}
-- Create a list of the phonetic code words from a word that the user inputs.
-- Use list comprehension and Pandas 
+## 🧠 Concepts Used
+- List comprehension
+- Dictionary mapping
+- Error handling
 
-### Links
+---
 
-- Solution URL: [NATO Alphabet](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day26)
+## ⚙️ How It Works
+- Load dataset into dictionary
+- Convert each letter into NATO code
 
-## My process
+---
 
-### Built with
-
-- Python
-- Pandas Library
-
-### What I learned
-- List Comprehension
-- Dictionary Comprehension
-- Iterate over Pandas DataFrames 
+## 📍 Learning Outcome
+- Efficient data transformation
