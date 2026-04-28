@@ -1,10 +1,20 @@
-# Coffee Machine (OOP)
+# Coffee Machine (OOP Version) ☕
 
 ## 📌 Overview
-OOP version of coffee machine.
+An object-oriented version of the coffee machine simulation.
 
 ## 🎯 Features
-- Class-based design
+- Modular design using classes
+- Improved code structure
+- Reusable components
 
 ## 🧠 Concepts Used
-- OOP
+- Classes & Objects
+- Encapsulation
+- Methods
+
+## ⚙️ How It Works
+- Different components handled via classes (Menu, CoffeeMaker, MoneyMachine)
+
+## 📍 Learning Outcome
+- Transition from procedural to OOP design
