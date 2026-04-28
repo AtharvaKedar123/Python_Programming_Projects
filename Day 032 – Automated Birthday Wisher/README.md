@@ -1,41 +1,45 @@
-# Day 32: Automated Happy Birthday Email
 
-## Table of contents
+---
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I reviewed](#what-i-reviewed)
+# 🚀 Day 032 – Birthday Email Automation
 
-## Overview
+```markdown
+# Birthday Email Automation 🎂
 
-### The challenge
+## 📌 Overview
+A Python automation script that sends personalized birthday emails automatically based on stored user data.
 
-- Create an automated email birthday greeting with python.
+---
 
-  - TODOs:
-    - Update the birthdays.csv
-    - Check if today matches a birthday in the birthdays.csv
-    - If step 2 is true, pick a random letter from letter templates and replace the [NAME] with the person's actual name from birthdays.csv
-    - Send the letter generated in step 3 to that person's email address.
+## 🎯 Features
+- Reads birthday data from CSV
+- Sends automated emails
+- Random message templates
 
-### Links
+---
 
-- Solution URL: [Automated Happy Birthday Email](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day32)
+## 🧱 System Architecture
+- Data Source → CSV file
+- Email Engine → SMTP server
+- Template Engine → Letter templates
 
-## My process
+---
 
-### Built with
+## 🧠 Concepts Used
+- Datetime module
+- SMTP protocol
+- File handling
 
-- Python
+---
 
+## ⚙️ Workflow
+1. Check today’s date
+2. Match with birthday records
+3. Generate personalized message
+4. Send email via SMTP
 
-### What I reviewed
-- Email SMTP - python module that helps sends emails
-- Datetime module -helps find dates and formats dates and times
-- Pandas
-- Dictionary comprehensions
+---
 
-
+## 📍 Learning Outcome
+- Real-world automation
+- Working with email servers
