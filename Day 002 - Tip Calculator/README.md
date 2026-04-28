@@ -1,32 +1,38 @@
 
 ---
 
-## Day 002 - Tip Calculator
+# 🚀 Day 002 - Tip Calculator
+
 ```markdown
-# Tip Calculator 💰
+# Day 002 - Tip Calculator 💰
 
 ## 📌 Overview
-A Python program that calculates the total bill including tip and splits it evenly among a group.
+A Python program that calculates the total bill including tip and splits it among multiple people.
+
+---
 
 ## 🎯 Features
-- Calculates tip percentage
-- Splits bill among multiple users
-- Handles floating-point calculations
+- Tip percentage calculation
+- Bill splitting among users
+- Accurate floating-point calculations
+
+---
 
 ## 🧠 Concepts Used
 - Arithmetic operations
-- Type conversion
-- User input
+- Type conversion (`int`, `float`)
+- User input handling
 
-## ⚙️ How It Works
-1. User inputs total bill amount
-2. User selects tip percentage
-3. User enters number of people
-4. Program calculates per-person payment
+---
 
-## ▶️ How to Run
-python main.py
+## ⚙️ Workflow
+1. User inputs total bill
+2. Selects tip percentage
+3. Inputs number of people
+4. Program calculates per-person amount
+
+---
 
 ## 📍 Learning Outcome
-- Performing real-world calculations
-- Working with floats and rounding
+- Working with real-world calculations
+- Handling numeric precision
