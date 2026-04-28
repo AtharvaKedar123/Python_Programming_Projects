@@ -1,11 +1,22 @@
-# Number Guessing Game
+# Number Guessing Game 🔢
 
 ## 📌 Overview
-Guess the number with hints.
+A game where the player guesses a randomly generated number within limited attempts.
 
 ## 🎯 Features
-- Random number
-- Feedback system
+- Difficulty levels (easy/hard)
+- Hint system (too high / too low)
+- Limited attempts
 
 ## 🧠 Concepts Used
+- Random module
 - Loops
+- Conditional logic
+
+## ⚙️ How It Works
+- System generates a random number
+- Player guesses repeatedly
+- Feedback helps refine guesses
+
+## 📍 Learning Outcome
+- Loop control and condition handling
