@@ -1,4 +1,20 @@
-# Day 76 Analyze Android App Store (with Plotly)
+# LEGO Dataset Analysis 🧱
+
+## 📌 Overview
+Analyzes LEGO datasets.
+
+---
+
+## 📍 Learning Outcome
+- Real dataset handling# LEGO Dataset Analysis 🧱
+
+## 📌 Overview
+Analyzes LEGO datasets.
+
+---
+
+## 📍 Learning Outcome
+- Real dataset handling# Day 76 Analyze Android App Store (with Plotly)
 
 ## Overview
 
