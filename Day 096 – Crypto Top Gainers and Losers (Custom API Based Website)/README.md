@@ -1,33 +1,36 @@
-# Day 96 Professional Portfolio Project: Crypto Top Gainers and Losers (Custom API Based Website)
+# Day 096 – Crypto Top Gainers and Losers 📈
 
-https://github.com/user-attachments/assets/75e03fda-a73d-445b-b822-56a61a827b06
+## 📌 Overview
+Tracks cryptocurrency market data to identify top gainers and losers.
 
-## Overview
-- Topics:  Pandas, Streamlit, JSON, Python, HTTP request, and REST APIs
+---
 
-### The challenge
+## 🎯 Features
+- Fetch crypto prices via API
+- Identify highest gainers/losers
+- Display results
 
-- Build a website that uses data from a public API/ build a service or website based on that API.
+---
 
- 
-### Links
+## 🧠 Concepts Used
+- API integration
+- Data analysis
+- Sorting/filtering
 
-- Solution URL: [](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day96)
+---
 
-## Reflection
-**Approach, Challenges, Learnings, and Future Improvements:**
-This was a practice project to review Streamlit and working with APIs. Since I'm new to crypto, I wasn’t fully confident in evaluating the actual data and quality (e.g., top gainers and losers), but accuracy wasn’t my main goal- my focus was understanding how to pull and display data in a web app.
+## ⚙️ Workflow
+1. Fetch market data
+2. Process price changes
+3. Rank cryptocurrencies
 
-I also used ChatGPT to help refactor parts of the code and make it cleaner. Along the way, I reviewed:
-- Working with nested JSON and dictionaries
-- Using pandas for data processing
-- Formatting numeric values with :.2f
+---
 
-Things I’d improve in the future:
-- Add user interactivity (filters, date selection, etc.)
-- Improve error handling
-- Add better visualizations (e.g., charts)
+## 📍 Learning Outcome
+- Financial data analysis
+- Real-time data processing
 
-## Notes/Concepts/Review: 
-- Reviewing accessing dictionaries `my_dict.get('key', default_value)`
-- `:.2f` format a floating-point number to two decimal places.
+---
+
+## 🚀 Resume Value
+⭐ VERY HIGH — Real-world data project
