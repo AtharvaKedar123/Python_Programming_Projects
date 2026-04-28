@@ -1,27 +1,38 @@
-# Day 95 Professional Portfolio Project: Space Invaders Game
+# Day 095 – Space Invaders Game 🚀
 
-https://github.com/user-attachments/assets/055e5ecf-3e56-470b-a107-6736c693bd02
+## 📌 Overview
+A classic arcade-style shooting game built using Python.
 
-## Overview
-- Topics: Turtle, Python
+---
 
-### The challenge
+## 🎯 Features
+- Player movement
+- Enemy spawning
+- Shooting mechanics
+- Score tracking
 
-- Using Python Turtle, build the classic [Space Invaders Game](https://en.wikipedia.org/wiki/Space_Invaders) arcade game where you shoot down alien ships.
- 
-### Links
+---
 
-- Solution URL: [Space Invaders Game](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day95)
+## 🧠 Concepts Used
+- Game loop
+- OOP
+- Collision detection
 
-## Reflection
-**Approach, Challenges, Learnings, and Future Improvements:**
-This project was both my favorite and most frustrating one. I repeated it multiple times because I kept getting stuck and confused. Eventually, I decided to start over from scratch -rewatching and reviewing Angela’s videos on the Turtle module and focusing on getting the class structure right.
+---
 
-While the final code isn’t perfect, and game development isn’t really my strength, I did make meaningful progress. I still ran into some issues, but they were more manageable than before. There was more clarity this time around, and the problems I encountered were smaller roadblocks that I could resolve (also thanks in part to ChatGPT).
+## ⚙️ Workflow
+- Player controls spaceship
+- Enemies descend
+- Player shoots enemies
+- Score updates
 
-There’s still a lot of room for improvement: cleaning up and modularizing the code, refining the logic, and making everything more reusable. As for the game itself, I’m not much of a gamer, but there are several ways it could be enhanced: adding sound effects or explosion animations, tracking and displaying levels, introducing power-ups, and creating more variety in the enemies.
+---
 
-The biggest takeaway for me was revisiting and reinforcing everything I’ve previously learned about object-oriented programming. There’s still a lot to digest and review, but I’m genuinely happy that I was able to get the game working in the end—even if it was just a basic implementation.
+## 📍 Learning Outcome
+- Game development principles
+- Real-time systems
 
-## Notes/Concepts: 
-- reviewing OOP/ Turtle coordinate system
+---
+
+## 🚀 Resume Value
+⭐ HIGH — Complex logic implementation
