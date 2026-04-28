@@ -1,35 +1,22 @@
-# Day 29: Project - Password Manager 1.0
+# Password Manager 🔐
 
-## Table of contents
+## 📌 Overview
+A GUI-based application to store and manage user credentials securely.
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+---
 
-## Overview
+## 🎯 Features
+- Store passwords
+- Generate secure passwords
+- Retrieve saved data
 
-### The challenge
+---
 
-- Create a Password manager with tkinter 
-
-### Links
-
-- Solution URL: [Password Manager](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day29)
-
-## My process
-
-### Built with
-
-- Python
+## 🧠 Concepts Used
 - Tkinter
+- File handling
 
-### What I learned
-- Review Tkinter:
-- Working with Images and Setting up the Canvas 
-- Using grid() and columnspan
-- Dialogue boxes and pop-ups
-- Reviewed list comprehensions, join() method
+---
 
+## 📍 Learning Outcome
+- Secure data handling
