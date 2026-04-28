@@ -1,29 +1,12 @@
-## Day 5 Project: Password Generator Project
+# Password Generator
 
-## Table of contents
+## 📌 Overview
+Generates secure random passwords.
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Links](#links)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+## 🎯 Features
+- Custom length
+- Mixed characters
 
-## Overview
-
-### The challenge
-
-- Create a simple password generator with python
-
-### Links
-
-- Solution URL: [Password Generator](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day5)
-
-
-### Built with
-
-- Python
-
-### What I learned
-- For loops
-- Range Function: range()
-- Code Blocks
+## 🧠 Concepts Used
+- Randomization
+- Strings
