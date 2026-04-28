@@ -1,10 +1,21 @@
-# Debugging Exercises
+# Debugging Exercises 🛠
 
 ## 📌 Overview
-Fixes common coding errors.
+Collection of debugging problems to identify and fix errors in code.
 
 ## 🎯 Features
-- Error handling
+- Error identification
+- Fixing logical mistakes
 
 ## 🧠 Concepts Used
-- Debugging skills
+- Debugging techniques
+- Code tracing
+
+## ⚙️ How It Works
+- Analyze broken code
+- Identify issues
+- Apply corrections
+
+## 📍 Learning Outcome
+- Strong debugging mindset
+- Reading and understanding code deeply
