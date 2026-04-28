@@ -1,24 +1,46 @@
 # Snake Game (Part 2) 🐍
 
 ## 📌 Overview
-An enhanced version of the Snake game with food consumption, scoring, and collision detection.
+A fully functional Snake Game built using Python's Turtle graphics module.  
+This version introduces dynamic gameplay including food consumption, snake growth, collision detection, and score tracking.
+
+---
 
 ## 🎯 Features
-- Food spawning
-- Score tracking
-- Wall collision detection
-- Snake growth
+- Real-time snake movement
+- Food spawning at random locations
+- Snake growth mechanism
+- Collision detection (wall & self)
+- Score tracking system
+
+---
+
+## 🧱 System Design (OOP Structure)
+- `Snake` → Controls movement and growth
+- `Food` → Handles food placement and respawning
+- `Scoreboard` → Tracks and displays score
+
+---
 
 ## 🧠 Concepts Used
-- OOP (Snake, Food, Scoreboard classes)
-- Game loop
-- Collision logic
+- Object-Oriented Programming (OOP)
+- Game loop logic
+- Event handling (keyboard input)
+- Collision detection algorithms
+
+---
 
 ## ⚙️ How It Works
-- Snake moves continuously
-- Eating food increases size
-- Collision ends game
+1. Snake moves continuously on screen
+2. When snake eats food:
+   - Score increases
+   - Snake length increases
+3. Game ends when:
+   - Snake hits wall
+   - Snake collides with itself
 
-## 📍 Learning Outcome
-- Structuring games using OOP
-- Handling real-time logic
+---
+
+## ▶️ How to Run
+```bash
+python main.py
