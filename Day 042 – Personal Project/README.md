@@ -1,30 +1,22 @@
-## Day 42 Project: Personal Website 
+# HTML Intermediate 🌐
 
-- Similar to Day 41 but with Tables and Forms
+## 📌 Overview
+Expands HTML knowledge by introducing forms, tables, and semantic elements.
 
-## Table of contents
+---
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+## 🎯 Features
+- Forms (input, buttons)
+- Tables
+- Semantic tags
 
-## Overview
+---
 
-### The challenge
+## 🧠 Concepts Used
+- Form handling
+- Data structuring
 
-- Create a simple HTML CV website, but with Tables and Forms
+---
 
-### Links
-
-- Solution URL: [Personal Website](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day42)
-
-### Built with
-
-- HTML
-
-### What I learned
-- HTML Tables
-- HTML Forms
+## 📍 Learning Outcome
+- Creating interactive web pages
