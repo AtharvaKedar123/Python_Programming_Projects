@@ -1,38 +1,39 @@
-# Day 34: The Quizzler App (GUI Quiz App)
+# Quiz App (API Version) 🧠
 
-## Table of contents
+## 📌 Overview
+A quiz application that dynamically fetches questions from an online API.
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+---
 
-## Overview
+## 🎯 Features
+- Live question fetching
+- Score tracking
+- Dynamic difficulty
 
-### The challenge
+---
 
-- Build a True or False Quiz GUI app
+## 🧱 System Design
+- API Layer → Fetch questions
+- Model Layer → Question objects
+- Controller → Quiz logic
 
-### Links
+---
 
-- Solution URL: [The Quizzler App](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day34)
+## 🧠 Concepts Used
+- API integration
+- OOP design
+- JSON handling
 
-## My process
+---
 
-### Built with
+## ⚙️ Workflow
+1. Fetch questions from API
+2. Convert into objects
+3. Display to user
+4. Track score
 
-- Python
-- [Open Trivia Database API](https://opentdb.com/api_config.php)
-- Tkinter
+---
 
-
-### What I learned
-- API: Review API Endpoints, Making API Calls, API Parameters
-- [Unescaping HTML Entities](https://www.freeformatter.com/html-escape.html)
-- Class based Tkinter UI
-- Python Typing, Type Hints
-
-
-
+## 📍 Learning Outcome
+- Working with dynamic data
+- Designing scalable systems
