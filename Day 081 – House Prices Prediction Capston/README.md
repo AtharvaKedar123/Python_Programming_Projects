@@ -1,29 +1,50 @@
-# Day 81 Capstone Project: Predict Housing Prices
+# Day 081 – House Prices Prediction Capstone Project 🏠
 
-## Overview
+## 📌 Overview
+A machine learning project that predicts house prices based on various features such as location, size, and other attributes. This serves as a capstone project demonstrating end-to-end ML workflow.
 
-- Topics: Seaborn, Plotly 
+---
 
+## 🎯 Features
+- Data preprocessing and cleaning
+- Feature selection and engineering
+- Model training and evaluation
+- Price prediction
 
-### The challenge
+---
 
-- Analyze a housing dataset and build a model that can provide a price estimate based on a home's characteristics such as:
-  - The number of rooms
-  - The distance to employment centres
-  - How rich or poor the area is
-  - How many students there are per teacher in local schools etc
+## 🧱 System Architecture
+- Data Layer → Raw dataset (CSV)
+- Processing Layer → Pandas & NumPy
+- Model Layer → Linear Regression / ML model
+- Output Layer → Predictions
 
-## Table of contents
+---
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Links](#links)
-- [Notes](#notes)
+## 🧠 Concepts Used
+- Data preprocessing
+- Feature engineering
+- Regression modeling
+- Model evaluation metrics (RMSE, R²)
 
-### Links
+---
 
-- Solution URL: [Capstone Project: Predict Housing Prices](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day81)
+## ⚙️ Workflow
+1. Load dataset
+2. Clean missing/inconsistent data
+3. Select relevant features
+4. Train regression model
+5. Evaluate performance
+6. Predict house prices
 
+---
 
-###  Notes
-- This was tougher than the other activities. Data science isn't my main interest nor is it my strongest suit. I had to refer to Angela's code for some sections of the exercise since I didn't fully understand how to approach the solution. I think I'll be sticking more to web development (Flask / Django etc/) rather than data science/analytics for the future. 
+## 📍 Learning Outcome
+- End-to-end ML pipeline
+- Understanding regression problems
+- Real-world dataset handling
+
+---
+
+## 🚀 Resume Value
+⭐ EXTREMELY HIGH — Capstone ML project
