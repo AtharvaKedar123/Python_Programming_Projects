@@ -2,7 +2,7 @@ from tkinter import *
 import pandas
 import random
 
-BACKGROUND_COLOR = "#B1DDC6
+BACKGROUND_COLOR = "#B1DDC6"
 
 window = Tk()
 window.title("Flash Card App")
