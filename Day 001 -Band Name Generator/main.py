@@ -1,5 +1,5 @@
 #Greeting
-welcome = "Welcome to the Band Name Generator"
+welcome = "Welcome to the Band Name Generator
 print(welcome)
 
 #Ask the user where they grew up.
