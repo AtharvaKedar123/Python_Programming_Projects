@@ -2,7 +2,7 @@ import time, threading, requests
 from telegram import ReplyKeyboardMarkup, ReplyKeyboardRemove
 from telegram.ext import *
 
-TOKEN = "8565083561:AAEEs8k5zCAYXJawiosPLYrFW7wK-g8p1ss"
+TOKEN = "BOT TOKEN HERE"
 alerts = {}
 CHOOSING, PRICE = range(2)
 
